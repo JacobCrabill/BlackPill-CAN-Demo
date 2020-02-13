@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "BluePill-CAN",
+			"path": "/home/jacob/STMicroelectronics/Projects/BluePill-CAN"
+		}
+	],
+	"settings": {
+		"astyle.astylerc": "${workspaceFolder}/Tools/astyle/astylerc",
+		"astyle.c.enable": true,
+		"astyle.cpp.enable": true,
+		"breadcrumbs.enabled": true,
+		"cortex-debug.enableTelemetry": false,
+		"debug.toolBarLocation": "docked",
+		"editor.defaultFormatter": "chiehyu.vscode-astyle",
+		"explorer.openEditors.visible": 0,
+		"git.ignoreLimitWarning": true,
+		"githubPullRequests.defaultMergeMethod": "squash",
+		"githubPullRequests.telemetry.enabled": false,
+		"files.associations": {
+			"*.c": "c",
+			"*.jinja": "jinja",
+			"main.h": "c"
+		},
+		"search.showLineNumbers": true,
+		"telemetry.enableTelemetry": false,
+		"window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+		"workbench.editor.highlightModifiedTabs": true,
+		"workbench.enableExperiments": false,
+		"workbench.settings.enableNaturalLanguageSearch": false,
+		"files.exclude": {
+			"**/build": true
+		},
+		"workbench.tree.indent": 12,
+		"editor.tabSize": 2
+	}
+}
